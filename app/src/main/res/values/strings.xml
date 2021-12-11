@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My exam</string>
+    <string name="item">item</string>
+    <string name="fragment_3">Fragment_3</string>
+    <string name="fragment_2">Fragment_2</string>
+    <string name="fragment_1">Fragment_1</string>
+</resources>
